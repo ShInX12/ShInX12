@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a developer in constant learning, welcome to my github
+
+👉🏼 My notes [here](https://mis-apuntes.netlify.app)
+
 <!--
 **ShInX12/ShInX12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
